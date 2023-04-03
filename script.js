@@ -1,4 +1,4 @@
-//constant for button
+//constant for the button
 const button = document.querySelector("button")
 
 //function that gets random color and changes the background of the body element
